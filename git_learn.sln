@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "git_learn", "git_learn\git_learn.vbproj", "{8FD5AAE5-9BE1-4D42-9B5D-5017B383B4CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FD5AAE5-9BE1-4D42-9B5D-5017B383B4CC}.Debug|x86.ActiveCfg = Debug|x86
+		{8FD5AAE5-9BE1-4D42-9B5D-5017B383B4CC}.Debug|x86.Build.0 = Debug|x86
+		{8FD5AAE5-9BE1-4D42-9B5D-5017B383B4CC}.Release|x86.ActiveCfg = Release|x86
+		{8FD5AAE5-9BE1-4D42-9B5D-5017B383B4CC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
