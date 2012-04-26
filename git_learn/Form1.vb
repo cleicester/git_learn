@@ -23,7 +23,7 @@ Public Class Form1
         MsgBox(generator.GenerateInitialiseCode)
         Dim initCode As String = p.GenerateInitialiseCode()
 
-        txtWelcome.Text = "Hello world!" & vbCrLf & vbCrLf & "Fred Dibnah here." & vbCrLf & vbCrLf & "Particle (" & p.PublicDescription & ") diameter is " & p.Diameter
+        txtWelcome.Text = "Hello universe!" & vbCrLf & vbCrLf & "Fred Dibnah here." & vbCrLf & vbCrLf & "Particle (" & p.PublicDescription & ") diameter is " & p.Diameter
         MsgBox(initCode)
 
     End Sub
